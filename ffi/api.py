@@ -1,6 +1,7 @@
 import new
 import pycparser    # http://code.google.com/p/pycparser/
 from ffi import ffiplatform
+from ffi.cparser import parse
 
 class FFIError(Exception):
     pass
