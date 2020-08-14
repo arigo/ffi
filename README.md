@@ -3,6 +3,6 @@ ffi moved
 
 "ffi" has been renamed "cffi" and moved.
 
-* new web site: https://bitbucket.org/cffi/cffi
+* new web site: https://foss.heptapod.net/pypy/cffi/
 
 * mailing list: https://groups.google.com/forum/#!forum/python-cffi
